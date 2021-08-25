@@ -1,0 +1,16 @@
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\obj\Debug\net5.0\data_structures.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\obj\Debug\net5.0\data_structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\obj\Debug\net5.0\data_structures.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\obj\Debug\net5.0\data_structures.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\obj\Debug\net5.0\data_structures.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\bin\Debug\net5.0\data_structures.exe
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\bin\Debug\net5.0\data_structures.deps.json
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\bin\Debug\net5.0\data_structures.runtimeconfig.json
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\bin\Debug\net5.0\data_structures.runtimeconfig.dev.json
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\bin\Debug\net5.0\data_structures.dll
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\bin\Debug\net5.0\ref\data_structures.dll
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\bin\Debug\net5.0\data_structures.pdb
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\obj\Debug\net5.0\data_structures.dll
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\obj\Debug\net5.0\ref\data_structures.dll
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\obj\Debug\net5.0\data_structures.pdb
+C:\Users\filip\OneDrive\Documents\Ievas-Dotnets\homework\practical\data_structures\obj\Debug\net5.0\data_structures.genruntimeconfig.cache

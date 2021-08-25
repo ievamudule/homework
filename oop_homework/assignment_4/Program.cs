@@ -35,8 +35,8 @@ namespace assignment_4
             district100.addPersonToDistrict(newOfficer7);
 
 
-            Console.WriteLine(district98.ToString());
-            Console.WriteLine(district100.ToString());
+            Console.WriteLine(district98);
+            Console.WriteLine(district100);
 
             ArrayList districts = new ArrayList();
             districts.Add(district98);
